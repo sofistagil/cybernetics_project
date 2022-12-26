@@ -15,3 +15,5 @@ usually come from Native communities and cultures that respect and care for natu
 stories and myths are usually about nature as well. Root will tell you stories from the place
 where you are, and the more you walk into places with nature, the more stories you are
 allowed to hear.
+
+![1656482607412](https://user-images.githubusercontent.com/72535736/209542844-b235cb59-7991-4d66-8108-36398a9acf71.jpg)
