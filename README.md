@@ -1,4 +1,4 @@
-# cybernetics_project
+# cybernetics_project_roots
 Device that reproduces audio from nature stories 
 
 #PROJECT DEVELOPED AS PART OF "DEMO DAY", DURING THE MASTER OF APPLIED CYBERNETICS AT ANU 2022
